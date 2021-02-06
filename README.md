@@ -1,2 +1,2 @@
-# BallCatcherIOS
-Ball Catcher on IOS
+# BallCatcher
+Ball Catcher
